@@ -1,6 +1,6 @@
 ### Hi, I'm Jianjian Sha. 👋
 
-- 🔭 I’m now working for TAL.
+- 🔭 I’m now working for freedom.
 - 🌱 I’m a pupil of machine learning. 
 - 🤔 My programming languages contain Python > C# = Java > C++.
 - ❤️ I like playing Onmyoji 🌩 and Crazy-racing Kart-rider 🚗.
