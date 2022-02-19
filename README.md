@@ -2,7 +2,7 @@
 
 - 🔭 I’m now working for freedom.
 - 🌱 I’m a pupil of machine learning. 
-- 🤔 My common used programming languages are Python > C# = Java > C++.
+- 🤔 My common used programming languages are Python 🐍 > C# = Java ☕ > C++.
 - ❤️ I like playing Anime 📺.
 - 💬 Be free to ask me about anything [here](https://github.com/JianjianSha/jianjiansha/issues).
 ```
