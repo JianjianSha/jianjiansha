@@ -1,9 +1,9 @@
 ### Hi, I'm Jianjian Sha. 👋
 
 - 🔭 I’m now working for freedom.
-- 🌱 I’m a pupil of machine learning. 
-- 🤔 My common used programming languages are Python 🐍 > C# = Java ☕ > C++.
-- ❤️ I like playing Anime 📺.
+- 😅 I’m ordinary in machine learning. 
+- 💻 My common used programming languages are Python 🐍 > C# :hash: = Java ☕ > C++ ➕.
+- ❤️ I like playing Anime 📺 & Opera song 🎧.
 - 💬 Be free to ask me about anything [here](https://github.com/JianjianSha/jianjiansha/issues).
 ```
     \   ^__^
